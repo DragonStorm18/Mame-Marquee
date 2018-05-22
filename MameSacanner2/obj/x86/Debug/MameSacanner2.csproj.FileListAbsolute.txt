@@ -1,0 +1,37 @@
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\obj\x86\Debug\MameSacanner2.Form1.resources
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\obj\x86\Debug\MameSacanner2.Properties.Resources.resources
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\obj\x86\Debug\MameSacanner2.csproj.GenerateResource.Cache
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\bin\Debug\MameSacanner2.exe
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\bin\Debug\MameSacanner2.pdb
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\obj\x86\Debug\MameSacanner2.exe
+C:\Users\Blair\AppData\Local\Temporary Projects\MameSacanner2\obj\x86\Debug\MameSacanner2.pdb
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.exe
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.pdb
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.Properties.Resources.resources
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csproj.GenerateResource.Cache
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.exe
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.pdb
+C:\Users\Blair\Documents\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csprojResolveAssemblyReference.cache
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmMain.resources
+C:\Users\Blair\documents\visual studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmScore.resources
+C:\Users\Blair\Documents\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmSettings.resources
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.exe
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.pdb
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.exe
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.pdb
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csprojResolveAssemblyReference.cache
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmMain.resources
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmScore.resources
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmSettings.resources
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.Properties.Resources.resources
+G:\Programming\Visual Studio 2010\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csproj.GenerateResource.Cache
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.exe
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.pdb
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.exe
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\bin\Debug\MameSacanner2.pdb
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csprojResolveAssemblyReference.cache
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmMain.resources
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmScore.resources
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.frmSettings.resources
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.Properties.Resources.resources
+C:\Users\The Westons\Documents\Visual Studio 2015\Projects\MameSacanner2\MameSacanner2\obj\x86\Debug\MameSacanner2.csproj.GenerateResource.Cache
